@@ -1,5 +1,5 @@
-Hello, My name is Lucas Caetano de Souza;
-I'm from Brazil;
-I’m a software developer and Computer Science student (UTFPR);
+Hello! My name is Lucas Caetano and I'm Brazilian;
+
+I’m a developer and Computer Science student on UTFPR ( Federal University Technological of Paraná);
 
 https://www.linkedin.com/in/lucas-caetano-/
