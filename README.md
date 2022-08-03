@@ -1,6 +1,6 @@
 Hello! My name is Lucas Caetano and I'm Brazilian;
 
-I’m a developer and Computer Science student on UTFPR ( Federal University Technological of Paraná);
+I’m a developer and Computer Science student on UTFPR ;
 
 
 <div align="center">
