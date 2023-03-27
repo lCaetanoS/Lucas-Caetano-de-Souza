@@ -1,6 +1,5 @@
-Hello! My name is Lucas Caetano and I'm Brazilian;
-
-I’m a developer and Computer Science student on UTFPR ;
+Oii, meu nome é Lucas Caetano, atualmente sou desenvolvedor front-end web e aluno de Bacharelado em Ciência da Computação.
+Gosto de resolver problemas e desafios utilizando as ferramentas de programação.
 
 
 <div align="center">
