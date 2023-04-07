@@ -6,7 +6,7 @@
 - Amante da natureza e dos animais.
 - Adoro aprender junto com meus colegas
 
-<div align="center" width="100%">
+<div align="left" width="100%">
   <a href="https://github.com/devLucasCaetano">
   <img src="https://github-readme-stats.vercel.app/api?username=devLucasCaetano&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
     <br>
