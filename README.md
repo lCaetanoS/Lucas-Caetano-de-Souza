@@ -1,11 +1,11 @@
 ## Olá! Meu nome é Lucas Caetano
 <div align="left">
-  - Atualmente sou desenvolvedor front-end web.
-  - Pai.
-  - Aluno de Bacharelado em Ciência da Computação.
-  - Estudante da área de Cibersegurança.
-  - Amante da natureza e dos animais.
-  - Adoro aprender junto com meus colegas
+- Atualmente sou desenvolvedor front-end web.
+- Pai.
+- Aluno de Bacharelado em Ciência da Computação.
+- Estudante da área de Cibersegurança.
+- Amante da natureza e dos animais.
+- Adoro aprender junto com meus colegas
 
   <div align="left" width="100%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devLucasCaetano&layout=compact&langs_count=7&theme=midnight-purple"/>
