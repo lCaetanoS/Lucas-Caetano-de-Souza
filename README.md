@@ -1,7 +1,6 @@
 ## Olá! Meu nome é Lucas Caetano
-atualmente sou desenvolvedor front-end web e aluno de Bacharelado em Ciência da Computação.
-Gosto de resolver problemas e desafios utilizando as ferramentas de programação.
-
+- Atualmente sou desenvolvedor front-end web 
+- Aluno de Bacharelado em Ciência da Computação.
 
 <div align="center">
   <a href="https://github.com/devLucasCaetano">
