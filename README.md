@@ -1,5 +1,7 @@
 ## Olá! Meu nome é Lucas Caetano
-<div align="left">
+
+<div>
+  
 - Atualmente sou desenvolvedor front-end web.
 - Pai.
 - Aluno de Bacharelado em Ciência da Computação.
