@@ -2,7 +2,7 @@
 
 <div>
   
-- Atualmente sou desenvolvedor front-end web.
+- Desenvolvedor front-end web.
 - Pai.
 - Aluno de Bacharelado em Ciência da Computação.
 - Estudante da área de Cibersegurança.
