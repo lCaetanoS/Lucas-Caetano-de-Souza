@@ -4,7 +4,7 @@
   
 - Desenvolvedor front-end web.
 - Pai.
-- Aluno de Bacharelado em Ciência da Computação.
+- Estudante em Ciência da Computação.
 - Estudante da área de Cibersegurança.
 - Amante da natureza e dos animais.
 - Adoro aprender junto com meus colegas
