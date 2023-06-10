@@ -2,14 +2,14 @@
 
 <div widht="100%">
   <div>
-    <div align="left" style="display: column">
-      - Desenvolvedor Web.
-      - Pai de duas crianças maravilhosas.
-      - Estudante em Ciência da Computação.
-      - Estudante da área de Cibersegurança.
-      - Amante da natureza e dos animais.
-      - Adoro aprender junto com meus colegas
-    </div>
+   
+    - Desenvolvedor Web.
+    - Pai de duas crianças maravilhosas.
+    - Estudante em Ciência da Computação.
+    - Estudante da área de Cibersegurança.
+    - Amante da natureza e dos animais.
+    - Adoro aprender junto com meus colegas
+    
     <div>
       <img align="right" alt="jean-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="right" alt="jean-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
