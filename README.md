@@ -6,8 +6,7 @@
   - Estudante em Ciência da Computação.
   - Estudante da área de Cibersegurança.
   - Amante da natureza e dos animais.
-  - Adoro aprender junto com meus colegas
-
+  - Adoro aprender junto com meus colegas.
 <!--   <div>
     <img align="right" alt="jean-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="right" alt="jean-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
