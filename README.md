@@ -2,7 +2,7 @@
 
 <div widht="100%">
   <div style="display: inline_block" height="100%">
-    <div align="left">
+    <div align="left" style="display: column">
       - Desenvolvedor Web.
       - Pai de duas crianças maravilhosas.
       - Estudante em Ciência da Computação.
