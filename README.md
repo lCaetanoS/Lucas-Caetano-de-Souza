@@ -1,13 +1,21 @@
 ## Olá! Meu nome é Lucas Caetano
 
 <div>
-  
-- Desenvolvedor Web.
-- Pai de duas crianças maravilhosas.
-- Estudante em Ciência da Computação.
-- Estudante da área de Cibersegurança.
-- Amante da natureza e dos animais.
-- Adoro aprender junto com meus colegas
+  <div>
+    - Desenvolvedor Web.
+    - Pai de duas crianças maravilhosas.
+    - Estudante em Ciência da Computação.
+    - Estudante da área de Cibersegurança.
+    - Amante da natureza e dos animais.
+    - Adoro aprender junto com meus colegas
+    
+    <img align="center" alt="jean-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="jean-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="jean-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="jean-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="jean-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
+    <img align="center" alt="jean-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+  </div>
 
   <div align="right" width="100%">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devLucasCaetano&layout=compact&langs_count=7&theme=midnight-purple"/>
