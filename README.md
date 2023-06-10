@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Lucas Caetano
 
 <div widht="100%">
-  <div>
+  <div style="display: inline_block" height="100%">
     - Desenvolvedor Web.
     - Pai de duas crianças maravilhosas.
     - Estudante em Ciência da Computação.
