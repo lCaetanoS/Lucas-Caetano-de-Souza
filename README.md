@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Lucas Caetano
 <div style="display:flex; flex-direction:row">
-  <ul style="widht:50%;">
+  <ul>
     <li>Desenvolvedor Web.</li>
     <li>Pai de duas crianças maravilhosas.</li>
     <li>Estudante em Ciência da Computação.</li>
