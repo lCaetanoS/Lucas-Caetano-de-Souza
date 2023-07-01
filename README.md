@@ -2,6 +2,7 @@
 <div style="display:flex; flex-direction:row">
   <ul>
     <li>Desenvolvedor Web.</li>
+    <li>Desenvolvedor Mobile.</li>
     <li>Pai de duas crianças maravilhosas.</li>
     <li>Estudante em Ciência da Computação.</li>
     <li>Estudante da área de Cibersegurança.</li>
