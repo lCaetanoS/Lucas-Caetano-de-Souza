@@ -6,6 +6,7 @@
     <li>Pai de duas crianças maravilhosas.</li>
     <li>Estudante em Ciência da Computação.</li>
     <li>Estudante da área de Cibersegurança.</li>
+    <li>Acesse meu site: <a href="https://devlucascaetano.com" target="_blank"> https://devlucascaetano.com </a> </li>
   </ul>
 
   <div align="left">
