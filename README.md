@@ -10,7 +10,7 @@
   </ul>
 
   <div align="left">
-<!--     <img alt="readhat" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg"/> -->
+    <img alt="readhat" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg"/>
     <img alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
     <img alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/> 
 <!--     <img alt="jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"/>  -->
@@ -21,8 +21,8 @@
     <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
     <img alt="SCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
     <img alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-    <img alt="CSharp" height="30" widht="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-    <img alt="Dot-Net" height="30" widht="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg"/>
+<!--     <img alt="CSharp" height="30" widht="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
+    <img alt="Dot-Net" height="30" widht="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg"/> -->
     <img alt="kt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/> 
   </div>
 </div>
