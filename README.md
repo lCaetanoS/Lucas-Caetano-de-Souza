@@ -27,7 +27,7 @@
 
 <br>
 <div align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devLucasCaetano&layout=compact&langs_count=12&theme=midnight-purple"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devLucasCaetano&layout=compact&langs_count=12&theme=midnight-purple&hide=Ruby"/>
   <br><br>
   <a href="https://github.com/devLucasCaetano">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devLucasCaetano&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&rank_icon=github"/>
