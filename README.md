@@ -4,8 +4,8 @@
     <li>Desenvolvedor Web.</li>
     <li>Desenvolvedor Mobile.</li>
     <li>Estudante em Ciência da Computação.</li>
-    <li>Estudante da área de Cibersegurança.</li>
-    <li>Acesse meu site: <a href="https://devlucascaetano.com" target="_blank"> <label  target="_blank">https://devlucascaetano.com  </label></a> </li>
+    <li>Estudante da área de Cibersegurança e Hacking</li>
+<!--     <li>Acesse meu site: <a href="https://devlucascaetano.com" target="_blank"> <label  target="_blank">https://devlucascaetano.com  </label></a> </li> -->
   </ul>
 
   <div align="left">
