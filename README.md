@@ -1,10 +1,10 @@
 ## Olá! Meu nome é Lucas Caetano
 <div style="display:flex; flex-direction:row">
   <ul>
-    <li>Desenvolvedor Web.</li>
-    <li>Desenvolvedor Mobile.</li>
-    <li>Estudante em Ciência da Computação.</li>
-    <li>Estudante da área de Cibersegurança e Hacking</li>
+    <li>Desenvolvedor Web | Web Development</li>
+    <li>Desenvolvedor Mobile | Mobile Development</li>
+    <li>Estudante em Ciência da Computação | Student of Computer Science</li>
+    <li>Estudante e Pesquisador da área de Cibersegurança e Hacking | Student and Researcher in the area of ​​Cybersecurity and Hacking</li>
 <!--     <li>Acesse meu site: <a href="https://devlucascaetano.com" target="_blank"> <label  target="_blank">https://devlucascaetano.com  </label></a> </li> -->
   </ul>
 
