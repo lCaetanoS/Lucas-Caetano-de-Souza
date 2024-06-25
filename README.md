@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/dev-lucascaetano/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-  <a href="https://www.github.com/lu0x43/" target="_blank">
+  <a href="https://hackerone.com/lu0x43" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white" target="_blank">
   </a>
 <!--   <a href="https://www.github.com/lu0x43/" target="_blank">
