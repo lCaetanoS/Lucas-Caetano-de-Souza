@@ -43,10 +43,10 @@
   <a href="https://www.github.com/lu0x43/" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.github.com/lu0x43/" target="_blank">
+<!--   <a href="https://www.github.com/lu0x43/" target="_blank">
     <img src="https://img.shields.io/badge/-HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" target="_blank">
-  </a>
-  <a href="https://www.github.com/lu0x43/" target="_blank">
+  </a> -->
+  <a href="https://bugcrowd.com/lu0x43" target="_blank">
     <img src="https://img.shields.io/badge/-Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white" target="_blank">
   </a>
 </div>
