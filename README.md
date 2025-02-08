@@ -1,11 +1,10 @@
 ## Olá! Meu nome é Lucas Caetano
 <div style="display:flex; flex-direction:row">
   <ul>
-    <li>Desenvolvedor Web | Web Development</li>
     <li>Desenvolvedor Mobile | Mobile Development</li>
+    <li>Desenvolvedor Web | Web Development</li>
     <li>Estudante em Ciência da Computação | Student of Computer Science</li>
     <li>Estudante e Pesquisador da área de Cibersegurança e Hacking | Student and Researcher in the area of ​​Cybersecurity and Hacking</li>
-<!--     <li>Acesse meu site: <a href="https://devlucascaetano.com" target="_blank"> <label  target="_blank">https://devlucascaetano.com  </label></a> </li> -->
   </ul>
 
   <div align="left">
@@ -28,7 +27,7 @@
 <div align="left">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lu0x43&layout=compact&langs_count=12&theme=midnight-purple&hide=Ruby"/>
   <br><br>
-  <a href="https://github.com/devLucasCaetano">
+  <a href="https://github.com/lu0x43">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lu0x43&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&rank_icon=github"/>
 </div>
 
